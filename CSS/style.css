@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.coquito-soft{
+    color: #bf9166;
+}
+.glory-new{
+    color: #bf9166;
+}
+.glory-llc{
+    color: #bf9166;
+    
+}
+.educaction-location1{
+    color: #bf9166;
+
+}.education-locaction2{
+    color: #bf9166;
+
+}
+.my-sydebar{
+    background-color:    #cc8720   ;
+    color: #14120f;
+    
+}
+.my-sydebar{
+    position: absolute;
+    width: 300px;
+    height: 1319px;
+    left: 40px;
+    top: 40px;
+    right:#cc8720;
+}
+.main{
+    position: absolute;
+    left:360px;
+    width: 1200px;
+    height: 1350px;
+    border-style: outset;
+    
+}
+.information{
+    left: 20px;
+}
+a{
+    text-decoration: none;
+    color: #14120f;
+}
+.principal{
+    position: relative;
+    left: 30px;
+}
+    
+.imagen{
+
+    width: 300px;
+    height: 299px;
+}   
+    
